@@ -32,4 +32,5 @@ Some Firebase features may not work in lower versions
 So if you are doing a project fork use the same version.
 
 Firebase: 6.1.1
+<br>
 Pdfjs-dist: 2.0.943
