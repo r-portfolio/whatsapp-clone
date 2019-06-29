@@ -1,0 +1,28 @@
+{
+  "name": "curso-javascript-projeto-whatsapp-clone",
+  "version": "1.0.0",
+  "description": "Project developed for the purpose of Javascript language studies - HCode Treinamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "start": "webpack-dev-server",
+    "dev": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Renato Lazaro",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "firebase": "^6.1.1",
+    "pdfjs-dist": "^2.0.943",
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
