@@ -34,3 +34,10 @@ So if you are doing a project fork use the same version.
 Firebase: 6.1.1
 <br>
 Pdfjs-dist: 2.0.943
+
+### How to use the WhatsApp clone
+
+To use the WhatsApp clone simply log in with gmail username and password, since the authentication is done by the Firebase Authentication SDK.
+<br>
+<br>
+To start a conversation add the contact that has authenticated in the application also with their respective gmail account.
