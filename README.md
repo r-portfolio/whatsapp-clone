@@ -41,3 +41,5 @@ To use the WhatsApp clone simply log in with gmail username and password, since 
 <br>
 <br>
 To start a conversation add the contact that has authenticated in the application also with their respective gmail account.
+
+![Added Contact](https://renatoschroepfer.com/img/work/whats/add-contact.png)
